@@ -1,2 +1,2 @@
 # CS
-Follows standard Cyber Security methodologies, techniques and practices.
+Following standard CyberSecurity methods, techniques and practices.
