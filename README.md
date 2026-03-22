@@ -1,2 +1,1 @@
-# CS
-Following standard CyberSecurity methods, techniques and practices.
+Practicing standard CyberSecurity protocols/methods/techniques.
